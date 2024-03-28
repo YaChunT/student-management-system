@@ -12,6 +12,8 @@ Built with modern technologies, this system offers a comprehensive set of featur
 - [Coverage Examples](#coverage-examples)
 - [Show me the code](#show-me-the-code)
 
+<br> <!-- Line break -->
+<br> <!-- Line break -->
 ## About📌  
 This Student Management System is designed to streamline the process of managing student data and administrative tasks. Here are the key details:
 
@@ -35,31 +37,38 @@ This Student Management System is designed to streamline the process of managing
   - JavaScript (JS)
   - PostgreSQL
 
+<br> <!-- Line break -->
+<br> <!-- Line break -->
 ## Architecture Diagram 🏗️
 
 <div align="center">
   <img width="1024" alt="Screenshot 2024-03-27 at 11 55 14 PM" src="https://github.com/YaChunT/student_management_system/assets/162515094/d8a7dd63-da8c-4d71-9693-0112be5e0511">
 </div>
 
-<div>
+<br> <!-- Line break -->
+
 This web application architecture is designed around user management and security, encompassing several key components:
-</div>
+<br> <!-- Line break -->
 
 - **User Registration**: New users can create accounts within the system through this process.
 - **Roles**: Upon registration, users are assigned roles such as 'admin' or 'user', dictating their access levels within the application.
 - **Spring Security**: Leveraging a robust authentication and access-control framework for Java applications, Spring Security effectively manages the security aspects of the application.
 - **Session Timeout**: Sessions expire after 15 minutes, requiring users to re-authenticate for continued access.
 - **Java Mail Sender**: Integrated to facilitate email communications from the application, including functionalities such as email verification during registration.
+- <br> <!-- Line break -->
 
 This architecture follows a standard pattern for user management and security in web applications, ensuring that only authenticated and authorized users can access designated features or sections.
 
-
+<br> <!-- Line break -->
+<br> <!-- Line break -->
 ## User Interface 📊 
 - **Sign-in page for web application**
 <div align="center">
 <img width="1506" alt="Screenshot 2024-03-28 at 12 17 49 AM" src="https://github.com/YaChunT/student_management_system/assets/162515094/8edefba6-8586-4f4a-9039-5e42b29a35ee">
 </div>
 
+<br> <!-- Line break -->
+<br> <!-- Line break -->
 ## Getting started 🏃‍♂️ 
 
 1. Clone this repository:
