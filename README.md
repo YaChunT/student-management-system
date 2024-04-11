@@ -10,7 +10,7 @@ Built with modern technologies, this system offers a comprehensive set of featur
 - [About](#about)
 - [Architecture Diagram](#architecture-diagram)
 - [User Interface](#user-interface)
-- [Get Started](#getting-started)
+- [Geting Started](#getting-started)
 
 <br> <!-- Line break -->
 <br> <!-- Line break -->
