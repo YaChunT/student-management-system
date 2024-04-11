@@ -9,8 +9,8 @@ Built with modern technologies, this system offers a comprehensive set of featur
 ## Table of Contents
 - [About](#about)
 - [Architecture Diagram](#architecture-diagram)
-- [Coverage Examples](#coverage-examples)
-- [Show me the code](#show-me-the-code)
+- [User Interface](#user-interface)
+- [Get Started](#get-started)
 
 <br> <!-- Line break -->
 <br> <!-- Line break -->
