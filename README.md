@@ -6,17 +6,13 @@ Built with modern technologies, this system offers a comprehensive set of featur
   <img width="1024" alt="Screenshot 2024-03-27 at 11 57 55 PM" src="https://github.com/YaChunT/student_management_system/assets/162515094/fb15cbc0-3fd9-44df-b77c-9fad4bc9a874">
 </div>
 
+
 ## Table of Contents
 - [About](#about)
-- [Architecture Diagram](#architecture-diagram)
-- [User Interface](#user-interface)
-- [Geting Started](#getting-started)
-
-  ## Table of Contents
-- [About](#about)
-- [Architecture Diagram](#architecture-diagram-)
+- [Architecture Diagram](#architecture-diagram-%EF%B8%8F)
 - [User Interface](#user-interface)
 - [Getting Started](#getting-started)
+
 
 
 <br> <!-- Line break -->
