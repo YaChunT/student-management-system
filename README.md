@@ -56,11 +56,11 @@ This architecture follows a standard pattern for user management and security in
 
 Follow these steps to get the project up and running on your local machine.
 
-### Prerequisites
+### - Prerequisites
 
 - Docker installed on your system
 
-### Installation
+### - Installation
 
 1. Clone this repository:
 
