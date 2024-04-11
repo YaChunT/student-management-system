@@ -20,26 +20,6 @@ Built with modern technologies, this system offers a comprehensive set of featur
 ## About📌  
 This Student Management System is designed to streamline the process of managing student data and administrative tasks. Here are the key details:
 
-- **Features**: 
-  - Interactive dashboard
-  - Information management
-  - Result generation
-  - Leave application
-
-- **APIs**: 
-  - Provides APIs for creating, getting, updating, and deleting student data.
-
-- **Dependencies**: 
-  - Maven 4.0.0
-  - Spring Boot 3.2.3
-  - Java 21
-
-- **Technologies**: 
-  - HTML5
-  - CSS3
-  - JavaScript (JS)
-  - PostgreSQL
-
 <br> <!-- Line break -->
 <br> <!-- Line break -->
 ## Architecture Diagram 🏗️
