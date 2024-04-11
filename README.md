@@ -81,12 +81,16 @@ Follow these steps to get the project up and running on your local machine.
     docker-compose up --build
     ```
 
-4. Run the Docker container:
-
+### - Installation with Spring Boot
+1. Build the project using Maven:
     ```bash
-    docker run -p 8080:8080 student_management_system
+    ./mvnw clean package
     ```
-
-5. Access the application:
+2. Run the application:
+    ```bash
+    java -jar target/student_management_system-0.0.1-SNAPSHOT.jar
+    ```
+### - Access the application:
 
     Open http://localhost:8080 in your web browser.
+   
