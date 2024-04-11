@@ -3,7 +3,7 @@
 Built with modern technologies, this system offers a comprehensive set of features for efficiently managing student data and facilitating administrative tasks.
 
 <div align="center">
-  <img width="1024" alt="Screenshot 2024-03-27 at 11 57 55 PM" src="https://github.com/YaChunT/student_management_system/assets/162515094/fb15cbc0-3fd9-44df-b77c-9fad4bc9a874">
+<img width="1024" alt="Screenshot 2024-04-11 at 6 04 52 PM" src="https://github.com/YaChunT/student_management_system/assets/162515094/0b31cf1d-8b08-4351-920b-cdd3a0a626a6">
 </div>
 
 
