@@ -69,7 +69,15 @@ This architecture follows a standard pattern for user management and security in
 
 <br> <!-- Line break -->
 <br> <!-- Line break -->
-## Getting started 🏃‍♂️ 
+## Getting Started🏃‍♂️
+
+Follow these steps to get the project up and running on your local machine.
+
+### Prerequisites
+
+- Docker installed on your system
+
+### Installation
 
 1. Clone this repository:
 
@@ -83,16 +91,18 @@ This architecture follows a standard pattern for user management and security in
     cd student_management_system
     ```
 
-3. Build the project using Maven:
+3. Build the Docker image:
 
     ```bash
-    ./mvnw clean package
+    docker build -t student_management_system .
     ```
 
-4. Run the application:
+4. Run the Docker container:
 
     ```bash
-    java -jar target/student_management_system-0.0.1-SNAPSHOT.jar
+    docker run -p 8080:8080 student_management_system
     ```
 
-5. The application will start running at `http://localhost:8080`.
+5. Access the application:
+
+    Open http://localhost:8080 in your web browser.
