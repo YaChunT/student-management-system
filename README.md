@@ -61,7 +61,7 @@ Follow these steps to get the project up and running on your local machine.
 
 - Docker installed on your system
 
-### - Installation
+### - Installation with Docker
 
 1. Clone this repository:
 
