@@ -78,7 +78,7 @@ Follow these steps to get the project up and running on your local machine.
 3. Build the Docker image:
 
     ```bash
-    docker build -t student_management_system .
+    docker-compose up --build
     ```
 
 4. Run the Docker container:
