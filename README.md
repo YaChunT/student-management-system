@@ -11,7 +11,7 @@ Built with modern technologies, this system offers a comprehensive set of featur
 - [About](#about)
 - [Architecture Diagram](#architecture-diagram-%EF%B8%8F)
 - [User Interface](#user-interface-)
-- [Getting Started](#getting-started)
+- [Getting Started](#getting-started%EF%B8%8F)
 
 
 
