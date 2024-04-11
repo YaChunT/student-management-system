@@ -12,6 +12,13 @@ Built with modern technologies, this system offers a comprehensive set of featur
 - [User Interface](#user-interface)
 - [Geting Started](#getting-started)
 
+  ## Table of Contents
+- [About](#about)
+- [Architecture Diagram](#architecture-diagram-)
+- [User Interface](#user-interface)
+- [Getting Started](#getting-started)
+
+
 <br> <!-- Line break -->
 <br> <!-- Line break -->
 ## About📌  
