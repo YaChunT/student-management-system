@@ -61,7 +61,7 @@ Follow these steps to get the project up and running on your local machine.
 
 - Docker installed on your system
 
-### - Installation with Docker
+### - Run Database with Docker
 
 1. Clone this repository:
 
@@ -81,7 +81,7 @@ Follow these steps to get the project up and running on your local machine.
     docker-compose up --build
     ```
 
-### - Installation with Spring Boot
+### - Run the Spring Boot Application
 1. Build the project using Maven:
     ```bash
     ./mvnw clean package
