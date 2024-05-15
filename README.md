@@ -39,7 +39,7 @@ This web application architecture is designed around user management and securit
 - **Spring Security**: Leveraging a robust authentication and access-control framework for Java applications, Spring Security effectively manages the security aspects of the application.
 - **Session Timeout**: Sessions expire after 15 minutes, requiring users to re-authenticate for continued access.
 - **Java Mail Sender**: Integrated to facilitate email communications from the application, including functionalities such as email verification during registration.
-- <br> <!-- Line break -->
+<br> <!-- Line break -->
 
 This architecture follows a standard pattern for user management and security in web applications, ensuring that only authenticated and authorized users can access designated features or sections.
 
